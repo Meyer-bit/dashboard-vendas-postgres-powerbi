@@ -1,0 +1,6 @@
+pandas
+requests
+psycopg
+python-dotenv
+pyarrow
+
