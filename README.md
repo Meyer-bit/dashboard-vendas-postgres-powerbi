@@ -112,7 +112,7 @@ source .venv/bin/activate
 3. Instalar dependencias:
 
 ```bash
-pip install -r projeto_dados/requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Criar arquivo de ambiente:
